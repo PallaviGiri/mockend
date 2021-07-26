@@ -1,0 +1,121 @@
+{
+  "data": {
+    "customers": [
+    {
+      "id": 1,
+      "name": "Pallavi Giri",
+      "username": "pagiri",
+      "email": "pallavi.giri@capgemini.com",
+      "contact": "3423434213",
+      "role": "Consultant",
+      "company": "capgemini",
+      "available": false,
+      "request": false,
+      "shared": false,
+      "screen_share_request": false,
+      "screen_share_allow": false,
+      "screen_share_session": "",
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "Cap-store",
+        "application_version": "2.0.0",
+        "model": "desktop"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Surbhi Gupta",
+      "username": "surbhi",
+      "email": "surbhi@capgemini.com",
+      "contact": "97896689",
+      "role": "Ass.Consultant",
+      "company": "capgemini Ltd.",
+      "available": false,
+      "request": false,
+      "shared": false,
+      "session": 343434,
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "iConnect",
+        "application_version": "1.0.0",
+        "model": "iPhone-X"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mayur Patil",
+      "username": "mayur",
+      "email": "mayur@capgemini.com",
+      "contact": "3423434213",
+      "role": "Consultant",
+      "company": "capgemini",
+      "available": false,
+      "shared": false,
+      "request": true,
+      "session": 121212,
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "iConnect",
+        "application_version": "1.0.0",
+        "model": "iPhone-7"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Monika Kale",
+      "username": "monika",
+      "email": "monika@capgemini.com",
+      "contact": "3423434213",
+      "role": "Sr.Consultant",
+      "company": "capgemini",
+      "available": false,
+      "request": false,
+      "shared": false,
+      "session": 232323,
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "HR-Portal",
+        "application_version": "1.2.0",
+        "model": "samsung-m31"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Aayansh",
+      "username": "aayansh",
+      "email": "aayansh@capgemini.com",
+      "contact": "3423434213",
+      "role": "Manager",
+      "company": "capgemini",
+      "available": false,
+      "request": false,
+      "shared": false,
+      "session": 232323,
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "HR-Portal",
+        "application_version": "1.2.0",
+        "model": "iPad"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aayansh111",
+      "username": "aayansh",
+      "email": "aayansh@capgemini.com",
+      "contact": "3423434213",
+      "role": "Manager",
+      "company": "capgemini",
+      "available": false,
+      "request": false,
+      "shared": false,
+      "session": 232323,
+      "device_details": {
+        "os_version": "2.2",
+        "application_name": "HR-Portal",
+        "application_version": "1.2.0",
+        "model": "iPad"
+      }
+    }]
+    }
+    }
