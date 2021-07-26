@@ -1,6 +1,19 @@
 {
   "Post": {
-    "title": {
+    "name": {
+      "string": {}
+    },
+    "username": {
+      "string": {}
+    },
+    "email": {
+      "string": {}
+    },
+    "contact": {
+      "string": {}
+    },"role": {
+      "string": {}
+    },"company": {
       "string": {}
     },
     "views": {
